@@ -1,2 +1,2 @@
-# sedonaa
+# Sedona
 Учебный проект HTML-Academy
